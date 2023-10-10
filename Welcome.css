@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ svg{
+    border: 2px;
+    color: green;
+    background-color: black;
+    font-size: 25px;
+}
+p {
+    color: blue;
+}
