@@ -2,12 +2,30 @@
     margin: 0;
     padding: 0;
 }
- svg{
-    border: 2px;
-    color: green;
-    background-color: black;
-    font-size: 25px;
+.firstdiv {
+    display: flex;
+    background-color: white;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    border-radius: 0px 0px 5px 5px;
 }
-p {
-    color: blue;
+.chain {
+    width: 30px;
+    height: 30px;
+    color:white;
+    padding: 5px;
+    margin-top: 10px;
+    margin-right: 40px;
+    border:2px solid black;
+    font-size: 35px;
+    border-style: hidden;
+    border-radius: 7px;
+    background-color:  blueviolet;
+}
+.style {
+    position: absolute;
+    margin-left: -180px;
+    margin-top: 12px;
+    color: black;
 }
